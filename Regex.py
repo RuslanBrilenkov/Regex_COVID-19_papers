@@ -21,3 +21,9 @@ print("\n{}".format(names))
 names2 = re.findall(r'\b(?![A-Z][a-z]+\'s\b)[A-Z][a-z]+\b', text)
 # printing the output
 print("\n{}".format(names2))
+
+# filtering extra words
+array_of_names = ["Isabella", "Jonas", "Andrew", "Arthur"] # etc.
+# using set.intersection to cross-match two arrays
+filtered_names = set(names2).intersection(array_of_names)
+print("\n{}".format(filtered_names))
