@@ -10,7 +10,7 @@ Besides, I want to automate the process of searching for the information with th
 In this case particular project, I show how we can look for the "incubation period" of COVID-19 virus, which is the time elapsed between exposure to a virus, and the first symptoms to show up. 
 
 The main idea is that the incubation period would contain information on the number/period of hours, or days (or maybe weeks). In this way, we can adjust our regex search to look for this specific information. 
-I see for now two possible limitation of this method: 
+For now, I see two possible limitation of this method: 
 1. not every scientific medical researcher would mention incubation period in this particular format (e.g., number+day(s) or number+hour(s));
 2. there may be other information not related to the incubaiton period that has exact same format.
 
