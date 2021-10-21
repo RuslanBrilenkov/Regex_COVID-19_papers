@@ -19,7 +19,7 @@ The second point would contaminate our data sample with random numbers.
 
 Even with these two drawbacks, which require further development, I am happy to be able to create an application which will find useful information from the medical scientific papers without actually reading them. Besides, these drawbacks are more like challenges which are great ways to improve our logical, technical, and programming skills at the same time.
 
-If you have anu questions, suggestions, comments, or simply would like to connect and say "Hi!", please do so following the information below. 
+If you have any questions, suggestions, comments, or simply would like to connect and say "Hi!", please do so following the information below. 
 ## I will be happy to hear from you!
 
 # Contacts
